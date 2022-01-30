@@ -1,5 +1,3 @@
-
-
 def sum_list_1(dataset: list) -> int:
     sum_del_7_1: int = 0
     for i in range (len(dataset)):
