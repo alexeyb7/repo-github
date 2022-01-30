@@ -1,4 +1,3 @@
-
 # duration = 400153
 duration = int(input('Введите целое число секунд: '))
 def convert_time(duration:int) -> str:
